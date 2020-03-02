@@ -1,0 +1,10 @@
+mean
+lobstr::obj_addr(mean)
+base::mean
+lobstr::obj_addr(mean)
+get("mean")
+lobstr::obj_addr(mean)
+evalq(mean)
+lobstr::obj_addr(mean)
+match.fun("mean")
+lobstr::obj_addr(mean)
